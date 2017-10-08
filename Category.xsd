@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <xs:schema id="Category"
-    targetNamespace="http://tempuri.org/Category.xsd"
+    targetNamespace="https://cdn.rawgit.com/LSPDFR-PeterU/ScenariOh--Tools/master/Category.xsd"
     elementFormDefault="qualified"
-    xmlns="http://tempuri.org/Category.xsd"
-    xmlns:mstns="http://tempuri.org/Category.xsd"
+    xmlns="https://cdn.rawgit.com/LSPDFR-PeterU/ScenariOh--Tools/master/Category.xsd"
+    xmlns:mstns="https://cdn.rawgit.com/LSPDFR-PeterU/ScenariOh--Tools/master/Category.xsd"
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
 >
   <xs:element name="Category">
